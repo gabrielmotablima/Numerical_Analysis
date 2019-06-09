@@ -22,6 +22,7 @@ This repository is destined to Numerical Algorithms in some programming language
 - Roots of Equations
   - Bisection Method
   - Regula Falsi Method
+  - Fixed-Point Iteration
   - Pegasus Method
   - Newton-Raphson Method
   - Illinois Method (extra)
