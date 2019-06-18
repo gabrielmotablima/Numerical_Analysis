@@ -1,6 +1,6 @@
 # Numerical Algorithms
 
-This repository is destined to Numerical Algorithms in some programming languages, made by me at college in Numerical Algorithms subject. The algorithms that will split up for now are:
+This repository is intended for Numerical Algorithms in some programming languages, made by me at college in Numerical Algorithms subject. The algorithms that will split up for now are:
 
 - Linear Systems
   - Gauss Elimination Method
@@ -28,7 +28,7 @@ This repository is destined to Numerical Algorithms in some programming language
   - Illinois Method (extra)
 - Ordinary Differential Equations
   - Euler Method
-  - Euler Modified Method (4th order)
+  - Euler Modified Method
   - Runge-Kutta Method
   - Runge-Kutta Method (2nd order)
   - Dormand-Prince and Fehlberg Method
