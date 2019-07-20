@@ -12,7 +12,6 @@ public class Function {
 		this.y = Math.cos(x) - x;
 	}
 	
-	// Main code block
 	public static void main(String args[]) {
 		double a   = 0.0 ; // Boundery to left mean point side
 		double b   =  1.0 ; // Boundery to right mean point side
