@@ -11,8 +11,8 @@ public class Function {
 		this.y = Math.cos(x) - x;
 	}
 
-    public static void main(String args[]) {
-        double a   = 0.0 ;
+	public static void main(String args[]) {
+		double a   = 0.0 ;
 		double b   =  1.0 ;
 		double p =  1.0e-8;
 		int count  =  0;
@@ -25,7 +25,7 @@ public class Function {
 		Function Mx = new Function(x);
 		double DeltaX = (-1)*((Mx.y)/(Mb.y-Ma.y))*(b-a);
 
-		
+
 
 		System.out.println("#################################################################################");
 		System.out.println("##################################### PEGASUS ###################################");
@@ -57,5 +57,5 @@ public class Function {
 		
 		}
 		System.out.println("Raiz: "+x+" ");	
-    }
+	}
 }
