@@ -46,5 +46,5 @@ public class Function {
 		
 		}
 		System.out.println("Raiz: "+x+" ");	
-    }
+	}
 }
