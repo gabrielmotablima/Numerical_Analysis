@@ -1,4 +1,4 @@
-# Numerical Algorithms
+# Numerical Analysis
 
 This repository is intended for Numerical Algorithms in some programming languages, made by me at college in Numerical Algorithms subject. The algorithms that will split up for now are:
 
