@@ -8,7 +8,7 @@ This repository is intended for Numerical Algorithms in some programming languag
   - LU Decomposition Method
   - Cholesky Method
   - Conjugate Gradient Method
-- Polinomial Interpolation 
+- Polynomial Interpolation 
   - Newton's Polynomial Method
   - Lagrange's Polynomial Method
 - Curves Adjustments
