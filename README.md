@@ -6,7 +6,7 @@ This repository is intended for Numerical Algorithms in some programming languag
   - Gauss Elimination Method
   - Gauss Elimination Method With Pivoting
   - LU Decomposition Method
-  - Cholesky Method
+  - [Cholesky Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Linear%20Systems/Cholesky%20Method)
   - Conjugate Gradient Method
 - Polynomial Interpolation 
   - Newton's Polynomial Method
