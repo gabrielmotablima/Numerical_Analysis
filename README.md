@@ -3,13 +3,13 @@
 This repository is intended for Numerical Algorithms in some programming languages, made by me at college in Numerical Algorithms subject. The algorithms that will split up for now are:
 
 - Linear Systems
-  - Gauss Elimination Method
-  - Gauss Elimination Method With Pivoting
+  - [Gauss Elimination Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Linear%20Systems/Gauss%20Elimination%20Method)
+  - [Gauss Elimination Method With Pivoting](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Linear%20Systems/Gauss%20Elimination%20Method%20With%20Pivoting)
   - LU Decomposition Method
   - [Cholesky Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Linear%20Systems/Cholesky%20Method)
   - Conjugate Gradient Method
 - Polynomial Interpolation 
-  - Newton's Polynomial Method
+  - [Newton's Polynomial Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Polynomial%20Interpolation/Newton's%20Polynomial%20Method)
   - Lagrange's Polynomial Method
 - Curves Adjustments
   - Least Squares Method
