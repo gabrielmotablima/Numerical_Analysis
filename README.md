@@ -20,12 +20,12 @@ This repository is intended for Numerical Algorithms in some programming languag
     - Simpsons 3/8 Rule
   - Quadrature of Gauss-Legendre
 - Roots of Equations
-  - Bisection Method
-  - Regula Falsi Method
-  - Fixed-Point Iteration
-  - Pegasus Method
-  - Newton-Raphson Method
-  - Illinois Method (extra)
+  - [Bisection Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Roots%20of%20Equations/Bisection%20Method)
+  - [Regula Falsi Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Roots%20of%20Equations/Regula-Falsi%20Method)
+  - [Fixed-Point Iteration](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Roots%20of%20Equations/Fixed-Point%20Iteration)
+  - [Pegasus Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Roots%20of%20Equations/Pegasus%20Method)
+  - [Newton-Raphson Method](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Roots%20of%20Equations/Newton-Raphson%20Method)
+  - [Illinois Method (extra)](https://github.com/GabrielMotaBLima/Numerical_Analysis/tree/master/Roots%20of%20Equations/Illinois%20Method)
 - Ordinary Differential Equations
   - Euler Method
   - Euler Modified Method
